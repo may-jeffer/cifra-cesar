@@ -16,7 +16,7 @@ def cesar(data, key, mode):
     
     
 
-key = 5
+key = 3
 msg = 'Casa Branca'
 print('  Original:', msg)
 ciphered = cesar(msg, key, MODO_CRIPTOGRAFIA)
